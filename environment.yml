@@ -1,8 +1,14 @@
-name: voila-hello-world-example
+name: covid-19-world-dashboard
 channels:
 - conda-forge
 dependencies:
-- ipywidgets=7.5
-- pandas=0.24.2
-- voila=0.1.5
+- voila
+- voila-material
+- pandas
+- ipywidgets
+- seaborn
+- plotly
+- folium
+- matplotlib
+- numpy
 
