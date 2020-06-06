@@ -1,0 +1,8 @@
+name: voila-hello-world-example
+channels:
+- conda-forge
+dependencies:
+- ipywidgets=7.5
+- pandas=0.24.2
+- voila=0.1.5
+
